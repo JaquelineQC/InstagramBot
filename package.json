@@ -1,0 +1,17 @@
+{
+  "name": "instabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/insta.js": "github:Androz2091/insta.js#develop",
+    "ascii-table": "0.0.9",
+    "fs": "0.0.1-security",
+    "ytdl-core": "^3.2.2"
+  }
+}

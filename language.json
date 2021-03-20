@@ -1,0 +1,20 @@
+{
+	"fr":{
+		"name": "Français",
+		"waiting": "En attente de réponse",
+		"connected": "Je suis prêt et connecté en tant que ",
+		"follow": " a commencé a vous suivre",
+		"receivedMsg": " vous a envoyé ",
+		"followRequest": " vous a envoyé une demande de follow",
+		"followed": "Vous avez été follow"
+	},
+	"en":{
+		"name": "English",
+		"waiting": "Waiting answer from API",
+		"connected": "I am ready and connected to ",
+		"follow": " started to follow you",
+		"receivedMsg": " has sent you ",
+		"followRequest": " has sent you a follow request",
+		"followed": "You have been followed"
+	}
+}
